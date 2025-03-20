@@ -114,7 +114,6 @@ export default function HomePage() {
                 technologies={["Laravel", "Angular", "GCP", "MySQL"]}
                 imageUrl="/sentinela.PNG?height=300&width=500"
               />
-              {/* https://doweb.rio.rj.gov.br/portal/visualizacoes/pdf/5997#/p:104/e:5997?find=portf%C3%B3lio%20de%20sistemas%20GM%20rio */}
               <ProjectCard
                 title="Mapa 2.0 e GM Mobile 2.0"
                 description="Aplicativo para segurança pública com recursos de geolocalização e alertas em tempo real."
